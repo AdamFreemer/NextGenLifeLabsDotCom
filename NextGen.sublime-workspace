@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Comp",
+				"Compute"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"prov",
+				"provider_account"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resor",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package r",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"oak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/afreemer/Dropbox/Dev/MyDev/NextGen Site"
+	],
+	"file_history":
+	[
+		"/Users/afreemer/Dropbox/Dev/MyDev/Steve-NextGenSite/NextGen.sublime",
+		"/Users/afreemer/Dropbox/Dev/Comcast/vip-dashboard/config/routes.rb",
+		"/Users/afreemer/Dropbox/Dev/Comcast/vip-dashboard/app/models/customer.rb",
+		"/Users/afreemer/Dropbox/Dev/Comcast/vip-dashboard/app/views/customers/show.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/controllers/admin/reports_controller.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/provider_accounts/_list.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/Gemfile",
+		"/Users/afreemer/Library/Application Support/Sublime Text 3/Packages/Theme - Afterglow/Afterglow-orange.sublime-theme",
+		"/Users/afreemer/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/alert_mailer/notify_admin.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/db/migrate/20150219172600_add_azure_provider.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/azure_provider_account.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/db/schema.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/account_form.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/stats/solution.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/cells/dashboard_cell.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/stats/provider.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/account.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/rate_card.rb",
+		"/Users/afreemer/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/afreemer/Desktop/dfdf",
+		"/Users/afreemer/Dropbox/.dropbox",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/db/schema.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/vendor/bundle/ruby/1.8/gems/railties-3.1.0/guides/assets/javascripts/syntaxhighlighter/shCore.js",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/config/statsd-client.yml",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/vendor/bundle/ruby/1.8/gems/railties-3.1.0/guides/assets/stylesheets/syntaxhighlighter/shCoreEclipse.css",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/script/server",
+		"/Users/afreemer/Dropbox/Dev/MyDev/RubyMisc/Test.rb",
+		"/Users/afreemer/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/afreemer/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/afreemer/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/admin/reports/_aws_reserved_instances_list.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/admin/reports/_customer_form.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/admin/reports/_opportunity_pipeline_list.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/newvem/package.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/controllers/provider_accounts_controller.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/lib/cms/pricing_api.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/PENDING",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/assets/images/icons/file_types/package_editors.svg",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/assets/images/icons/file_types/package_wordprocessing.svg",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/vendor/plugins/easy-fckeditor/public/javascripts/fckeditor/editor/plugins/easyUpload/docs/install.html",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/console_script/newvem_package_check.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/public/javascripts/fckeditor/_documentation.html",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/rds/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lib/rds/environment_updater.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lib/aws/environment_updater.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lib/provisioning/environment_updater.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/admin/reports/_pipeline_list.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/config/environments/production.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/aws/elastic_load_balancer.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/views/specification_servers/_instance_type_select.html.erb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/database_engine.rb",
+		"/Users/afreemer/Desktop/UpdaterJobTest_w_params.txt",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/log/development.log",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/rds_stats.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/models/zenoss/register_device.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/Rakefile",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/rds/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/log/development.log",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/c/log/development.log",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/development.l",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/config/logger_fix.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/vendor/plugins/rspec/features/command_line/line_number_option.feature",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lotaris_billing.sh",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lib/billing/base_reconciler.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/forms/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/e_strat/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/aws/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/alertlogic/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/models/zenoss/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/models/login/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/models/forms/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/lib/extensions/base64.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/lib/zenny/base.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/config/initializers/backtrace_silencers.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lib/crm/billing_system_api.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/config/boot.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/stats/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/e_strat/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/aws/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/instance_type.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/instance_license.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/lib/cms/instance_api.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/models/cms/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/test/fixtures/instances.yml",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/spec/factories/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/instance.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/instance_security_group.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/vendor/bundle/ruby/1.8/gems/sass-3.1.11/lib/sass/tree/if_node.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/lib/impersonation.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/rds/security_group.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/lib/aws/pricing/rds_updater.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/config/routes.rb",
+		"/Users/afreemer/Desktop/Startup.txt",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/app/controllers/cos/buckets_controller.rb",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/config/database.yml",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/database.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/config/database.yml",
+		"/Users/afreemer/Datapipe/Dev/cloud-management-system/app/models/database_type.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/lib/crm/datapipe_api.rb",
+		"/Users/afreemer/Datapipe/Dev/cloudstack-customer-portal/dump.rdb",
+		"/Users/afreemer/Desktop/CMS.txt",
+		"/Users/afreemer/Desktop/.localized",
+		"/Users/afreemer/Desktop/.DS_Store",
+		"/Users/adamfreemer/Desktop/CMS"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/afreemer/Datapipe/Dev/cloud-management-system",
+			"/Users/afreemer/Datapipe/Dev/cloud-management-system/app",
+			"/Users/afreemer/Datapipe/Dev/cloud-management-system"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"#",
+			"azure",
+			"export",
+			"content_for :content",
+			":content",
+			"search",
+			"bottom",
+			"back",
+			"backgro",
+			"tab",
+			"azure",
+			"azure_pr",
+			"schema.rb",
+			"save",
+			"_opportunity_pipeline_list.html.erb",
+			"opportunity_pipeline_list.html.erb",
+			"_opportunity_pipeline_list.html.erb",
+			"instance.rb",
+			"instance",
+			"EnvironmentUpdater",
+			"environment_updater",
+			"remote_function",
+			"_opportunity_pipeline_list.html.erb",
+			"cache",
+			"touch",
+			"slow_action",
+			"self.perform",
+			"here iam",
+			"here i am",
+			"Fetching instances...",
+			"RDS::Instance",
+			"Instance.new",
+			"map",
+			"remote_update",
+			"Parser.map",
+			"map",
+			"RDS::Instance",
+			"RDS::Instance.map",
+			"map",
+			"parse_instance_engine",
+			"find_by_code",
+			"provider_account_synced",
+			"Benchmark",
+			"protect_f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 626.0
+	},
+	"project": "NextGen.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_opportunity_pipeline_list.html.erb",
+				"cloud-management-system/app/views/admin/reports/_opportunity_pipeline_list.html.erb"
+			],
+			[
+				"development.log",
+				"cloud-management-system/log/development.log"
+			],
+			[
+				"base",
+				"cloud-management-system/app/models/rds/base.rb"
+			],
+			[
+				"instance",
+				"cloud-management-system/app/models/rds/instance.rb"
+			],
+			[
+				"database",
+				"cloud-management-system/config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
