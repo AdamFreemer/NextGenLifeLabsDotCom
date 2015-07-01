@@ -1,37 +1,29 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- Site by Adam Freemer :: a@freemer.com
-            All content copyright NextGen LifeLabs Inc -->
-
         <!--  SEO STUFF START HERE -->
-        <title>NextGen LifeLabs</title>
+        <title>NextGen LifeLabs :: Index ::</title>
         <meta name="keywords" content="IVF,IVF Chamber,IVF1,IVF Tech,Invitro,In-Vitro,In Vitro,ART,Assisted reproductive technology,Equipment,IVF Equipment,Lab Equipment,Labotect,C-top,C16,Microscope,Incubator,Heated stage,Stage warmer,Stage,Gas Mixer,Gas blender,tri-gas,Nitrogen generator,Laboratory,Life Science,Embro,Embryology,Embryologist,Lab director,Lab service,service,installation,workstation,IVF workstation,Light source,Culture media,media,sperm,oocyte,blast,blastomere,blastocyst,embryo,micromanipulator,narishige,eppendorf,MTG,Octax,Hamilton Thorne,Zilos,Laser,Sensaphone,Cryo,Liquid Nitrogen,Vitrification,Taylor Wharton,VWR,OKO,OKO LAB,OKOLAB,OKO-LAB,Olympus,Nikon,Zeiss,Leica,IX73,Ti,SZ61,SZX10,SZX16,SZX,BX43,50i,SMZ800,SMZ1000,SMZ1500,CO2 Controller,Calibration,Certification,Preventative Maintenance,Custom Products,Lab relocation,lab consulation,Process gas control,Image management,imaging,video,HD video,HDMI,Strzempek,Steve Strzempek,Steven Strzempek,David Hopely,Dave Hopely,Hopely" />
         <meta name="description" content="In Vitro Fertilzation Products Technology Services" />
         <meta name="author" content="NextGenLifeLabsInc" />
         <meta name="robots" content="follow, index" />
-
-        <!--  SEO STUFF END -->
+        <!--  SEO STUFF END -->     
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!--  revolution slider plugin : begin -->        
-        <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
-        <link rel="stylesheet" type="text/css" href="css/rs-responsive.css" media="screen" />
-        <!--  revolution slider plugin : end -->
         <link rel="stylesheet" href="css/bootstrap.css" />
         <link rel="stylesheet" href="css/custom.css" />
         <link rel="stylesheet" href="css/css3-menu.css" />
         <link rel="stylesheet" href="css/isotope.css" />
         <link rel="stylesheet" href="css/color_scheme.css" />
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic" rel="stylesheet" type="text/css" />
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,900,500,600,700,800' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="css/font-awesome.css" />
-        <link rel="stylesheet" href="css/font-awesome-ie7.css" />
-        <link rel="stylesheet" href="css/flexslider.css" />
         <link rel="stylesheet" href="css/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
         <!--[if lte IE 8]>
             <link rel="stylesheet" type="text/css" href="css/IE-fix.css" />
         <![endif]-->
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic" rel="stylesheet" type="text/css" />
+        <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/font-awesome.css" />
+        <link rel="stylesheet" href="css/font-awesome-ie7.css" />
+        <link rel="stylesheet" href="css/flexslider.css" />
     </head>
     <body>
         <!-- THE LINE AT THE VERY TOP OF THE PAGE -->
@@ -50,12 +42,13 @@
                         <!-- HEADER: PHONE NUMBER -->
                         <p class="head_phone">
 
-                            <span class="icon-print"> </span><a href="mailto:info@nextgenlifelabs.com?Subject=Information%20Request">info@nextgenlifelabs.com</p>
+                            <span> </span>&nbsp;</p>
                     </div>
                     <!-- HEADER: SOCIAL ICONS -->
                     <ul class="socials unstyled">
-                        <li><a data-rel="tooltip" title="Follow us on Twitter" class="twitter" href="#"></a></li>
+                        <li>&nbsp;</li><br>
                         <li><a data-rel="tooltip" title="Follow us on Facebook" class="facebook" href="https://www.facebook.com/nextgenlifelabs" target="_blank"></a></li>
+                        <li><a data-rel="tooltip" title="Follow us on LinkedIn" class="youtube" href="https://www.linkedin.com/company/8333433" target="_blank"></a></li>
                     </ul> 
                 </div>
             </div>            
@@ -98,7 +91,12 @@
                     </div>
                 </div>
             </div>
-        </div>   
+        </div>  
+
+
+
+        <!-- MAIN CONTENT AREA --> 
+
         <!-- MAIN CONTENT AREA: SLIDER BANNER (REVOLUTION SLIDER) -->
                 <div class="fullwidthbanner-container" >
                     <div class="banner" >
@@ -278,9 +276,6 @@
                                 </div>
                             </li> 
 
-                                  
-
-
 
 
 
@@ -294,6 +289,8 @@
                     </div>
                 </div>
         <!-- MAIN CONTENT AREA -->
+
+
         <div class="main-wrapper">
 <div class="main-content">
             <div class="container">
@@ -304,6 +301,7 @@
                         <div class="mini-wrapper">
                         <h2>Latest News</h2>
                         <ul class="soft-updates">
+
                             <li>
                                 <div class="date-img">
                                     <span class="top-date">APR</span>
@@ -329,7 +327,8 @@
                                 </div>
                                 <p><strong>January 7th, 2015</strong><br>New product lines have just been added with more information to follow</p>
 
-                            </li>                           
+                            </li> 
+
                         </ul>
                         </div>
                     </div>
@@ -374,6 +373,7 @@
             </div>
 
         </div>
+
         <!-- FOOTER STARTS HERE -->
         <footer id="footer">
             <div class="footer-top"></div>
@@ -388,21 +388,20 @@
                                     <!-- FOOTER: ADDRESS -->
                                     <address class="address">
 
-                                        <p><i class="icon-map-marker icon-large"></i>Philadelphia, PA USA</p>
 
-                                        <p><i class="icon-phone icon-large"></i>David Hopely: <a href="tel:215-410-1987">(215) 410-1987</a></p>      
-                                        <p><i class="icon-phone icon-large"></i>Steve Strzempek: <a href="tel:215-870-3433">(215) 870-3433</a></p>
-
-                                        <p><i class="icon-print icon-large"></i><a href="mailto:steve@nextgenlifelabs.com?Subject=Information%20Request">steve@nextgenlifelabs.com</a></p>                   
-                                        <p><i class="icon-print icon-large"></i><a href="mailto:david@nextgenlifelabs.com?Subject=Information%20Request">david@nextgenlifelabs.com</a></p>
                                     </address>
                                 </div>
                                 <!-- FOOTER: ABOUT US -->
                                 <div class="span4 footer-center">
-                                    <h4 class="center-title">About Us</h4>
-
-                                    <p>With a combined 20 years experience, we offer skilled installation and service support for a wide range of equipment as well as laboratory planning, expansion and relocation consultation.</p>
+                                    <h4 class="center-title">Contact</h4>
+                                    <p> NextGen Life Labs<br>
+                                        384 Nina Way<br>    
+                                        Warminster, PA 18974<br>
+                                        Office: <a href="tel:215-672-4838">215-672-4838</a><br>     
+                                        Fax: <a href="tel:215-672-4904">215-672-4904</a>
+                                    </p>    
                                 </div>
+
                                 <!-- FOOTER: NAVIGATION LINKS -->
                                 <div class="span4 footer-right">
                                     <h4 class="center-title">Navigate</h4>
@@ -429,7 +428,7 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>        
+                        </div>
                     </div>
                 </div>
             </div>
@@ -438,27 +437,18 @@
                     <div class="row show-grid">
                         <!-- FOOTER: COPYRIGHT TEXT -->
                         <div class="span12">
-                            <p>All content Copyright 2014 NextGen LifeLabs | Site by <a href="http://www.adamfreemer.net">AFDesigns</a></p>
+                            <p>All content Copyright 2015 NextGen LifeLabs</a></p>
                         </div>
                     </div>
                 </div>
             </div>
         </footer>
-</div>
+    </div>
         <!-- END FOOTER -->
-        <!-- Placed at the end of the document so the pages load faster -->
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-        <script type="text/javascript" src="js/bootstrap.js"></script>
-        <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
-        <script type="text/javascript" src="js/jquery.isotope.js"></script>
-        <script type="text/javascript" src="js/jquery.imagesloaded.min.js"></script>
-        <script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.0"></script>
-        <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-        <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-        <script type="text/javascript" src="js/revolution.custom.js"></script>
-        <script type="text/javascript" src="js/custom.js"></script>
+
     </body>
 </html>
+
 
 <script>
 jQuery(function($) {
@@ -478,3 +468,15 @@ jQuery(function($) {
     }
 });
 </script>
+
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.js"></script>
+        <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+        <script type="text/javascript" src="js/jquery.isotope.js"></script>
+        <script type="text/javascript" src="js/jquery.imagesloaded.min.js"></script>
+        <script type="text/javascript" src="js/jquery.fancybox.pack.js?v=2.1.0"></script>
+        <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+        <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+        <script type="text/javascript" src="js/revolution.custom.js"></script>
+        <script type="text/javascript" src="js/custom.js"></script>
